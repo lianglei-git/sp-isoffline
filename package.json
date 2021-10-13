@@ -1,0 +1,19 @@
+{
+  "name": "sp-isoffline",
+  "version": "0.0.1",
+  "description": "is online and offline on nodejs; 检测网络状态（nodejs）",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "online",
+    "offline",
+    "检测网络",
+    "断线重连",
+    "是否连网"
+  ],
+  "author": "sparrow",
+  "license": "ISC"
+}
