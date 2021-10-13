@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lianglei-git/sp-isoffline.git"
+  },
   "keywords": [
     "nodejs",
     "online",
@@ -15,5 +19,9 @@
     "是否连网"
   ],
   "author": "sparrow",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lianglei-git/sp-isoffline/issues"
+  },
+  "homepage": "https://github.com/lianglei-git/sp-isoffline#readme"
 }
