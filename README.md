@@ -2,6 +2,9 @@
 1. is online on nodejs by ping hosts: www.baidu.com, weixin.qq.com...
 2. offline to online on nodejs 
 
+## Install
+`npm install sp-isoffline`
+
 ## api
 ### isonline: 
 `网络是否处于在线状态(一次性（ one-off ）) code: `
