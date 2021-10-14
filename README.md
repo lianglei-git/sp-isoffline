@@ -4,6 +4,8 @@
 
 ## Install
 `npm install sp-isoffline`
+or
+`yarn add sp-isoffline`
 
 ## api
 ### isonline: 
