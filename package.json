@@ -1,10 +1,10 @@
 {
   "name": "sp-isoffline",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "is online and offline on nodejs; 检测网络状态（nodejs）",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
