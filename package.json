@@ -6,6 +6,7 @@
   "scripts": {
     "test": "node test.js"
   },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/lianglei-git/sp-isoffline.git"
@@ -19,7 +20,6 @@
     "是否连网"
   ],
   "author": "sparrow",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/lianglei-git/sp-isoffline/issues"
   },
