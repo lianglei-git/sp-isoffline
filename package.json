@@ -1,5 +1,5 @@
 {
-  "name": "sp-isoffline",
+  "name": "@sparrowend/isoffline",
   "version": "0.0.5",
   "description": "is online and offline on nodejs; 检测网络状态（nodejs）",
   "main": "index.js",
